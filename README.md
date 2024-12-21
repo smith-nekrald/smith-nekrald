@@ -1,6 +1,6 @@
 ## About Me
 
-Passionate about improving business decisions using data science and optimization. Careful, persistent, patient, respectful, and competent. Ph.D. candidate researching revenue management and pricing optimization.  A genuine team player committed to group success and growth. Sincere and honest with a high level of personal and professional integrity.
+Ph.D. candidate researching revenue management and pricing optimization. Passionate about improving business decisions using data science and optimization. Careful, persistent, patient, respectful, and competent. A genuine team player committed to group success and growth. Sincere and honest with a high level of personal and professional integrity.
  
 Previous corporate experience allows me to look into the industry from multiple perspectives. I have spent several years in Yandex (Russian Google), starting with a recommender system prototype and then improving speech recognition at Yandex SpeechKit. Later, I also participated in two Scotiabank internships, firstly doing the data science around deposit time series clustering and secondly looking into recency-frequency-monetary value marketing for day-to-day acquisition campaigns.
  
